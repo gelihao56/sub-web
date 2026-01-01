@@ -480,10 +480,12 @@ export default {
         customBackend: {
           "肥羊增强型后端【vless reality+anytls】": "https://api.v1.mk",
           "肥羊备用后端【vless reality+anytls】": "https://url.v1.mk",
+          "本站自建【不稳定】":"https://dyzxa.frii.site",
         },
         backendOptions: [
           {value: "https://api.v1.mk"},
           {value: "https://url.v1.mk"},
+          {value: "https://dyzxa.frii.site"},
         ],
         remoteConfig: [
           {
@@ -1416,6 +1418,7 @@ export default {
   }
 };
 </script>
+
 
 
 
