@@ -27,4 +27,4 @@ services:
 http://192.168.10.1:8090/?backend=https://url.v1.mk
 ```
 
-本项目基于youshandefeiyang/sub-web-modify微改而来，还请多支持原作者对开源社区的贡献[原作者项目](https://github.com/youshandefeiyang/sub-web-modify)
+本项目基于youshandefeiyang/sub-web-modify微改而来，还请多支持原作者，为原作者点个Star[原作者项目](https://github.com/youshandefeiyang/sub-web-modify)
